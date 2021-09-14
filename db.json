@@ -2,7 +2,7 @@
   "employeeOfTheMonth": {
     "name": "Muhammad Azri",
     "position": "Software Engineer",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/AzriZzz/next-news-app/main/public/images/profile_img.png",
     "description": "Just a developer"
   } 
 }
